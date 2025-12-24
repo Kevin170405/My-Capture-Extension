@@ -1,0 +1,7 @@
+My Mind
+1.0
+Save content to Google Drive
+ID: ebjhlfcnbbekffhmopmpobnalmiampof
+
+Client ID
+222409534448-ig0540l6tc5en8e4rncdtutn64ihp4pj.apps.googleusercontent.com

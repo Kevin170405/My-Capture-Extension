@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "My Capture",
+  "version": "1.0",
+  "description": "Save screenshots, text, and pages to Google Drive or PC.",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "contextMenus",
+    "storage",
+    "identity",
+    "pageCapture",
+    "downloads",
+    "notifications"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "icon.png"
+  },
+  "icons": {
+    "16": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "oauth2": {
+    "client_id": "222409534448-5q3ktjkc9g0e3lojt2ancaruptom15mu.apps.googleusercontent.com",
+    "scopes": [
+      "https://www.googleapis.com/auth/drive.file"
+    ]
+  }
+}
